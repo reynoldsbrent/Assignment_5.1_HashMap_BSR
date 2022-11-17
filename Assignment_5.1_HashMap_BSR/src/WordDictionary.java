@@ -28,9 +28,7 @@ public class WordDictionary {
 		return "Word: " + word + "\n Definition: " + wordDefinitionPair.get(word) + "\n Hash key: " + word.hashCode();
 	}
 	
-	public void printHashMap(){
-		for(String word : wordDefinitionPair.keySet()) {
-			System.out.println(word + " = " + wordDefinitionPair.get(word));
-		}
+	public HashMap<String, String> printHashMap(){
+		return wordDefinitionPair;
 	}
 }

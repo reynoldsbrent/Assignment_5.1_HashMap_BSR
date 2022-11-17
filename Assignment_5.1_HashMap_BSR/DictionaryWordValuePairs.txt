@@ -5,7 +5,7 @@ uncommon	remarkably
 sea coal	mineral coal
 virtue	virginity
 repulsive	lacking friendliness or sympathy
-egad	"exclamation of surprise, anger, or affirmation"
+egad	exclamation of surprise, anger, or affirmation
 bethink oneself of	remember; recollect
 cordwainer	a shoemaker
 animalcule	a microscopic animal
@@ -20,8 +20,8 @@ fain	pleased or willing under the circumstances
 damsel	a young unmarried woman
 fandangle	a useless or purely ornamental thing
 carl	a man of low birth
-sacring	"the consecration of a bishop, a sovereign, or the Eucharistic elements"
-pestilence	"a fatal epidemic disease, especially bubonic plague"
+sacring	the consecration of a bishop, a sovereign, or the Eucharistic elements
+pestilence	a fatal epidemic disease, especially bubonic plague
 commend	entrust someone or something to
 "quick, the"	the living
 gyve	a fetter or shackle
@@ -66,7 +66,7 @@ larcener	thief
 portion	a person's destiny or lot
 perchance	by some chance
 pale	an area within determined bounds or subject to a particular jurisdiction
-pelf	"money, especially when gained dishonestly"
+pelf	money, especially when gained dishonestly
 loathly	repulsive
 recompense	punish or reward appropriately
 bibliopole	a dealer in books
@@ -118,7 +118,7 @@ fervent	hot or glowing
 therewith	with or in the thing mentioned
 wont	accustomed
 drab	a slovenly woman
-wast	second person singular past ofÊbe
+wast	second person singular past ofï¿½be
 receipt	a recipe
 peterman	a thief or safecracker
 in sooth	actually
@@ -126,7 +126,7 @@ hither	to or toward this place
 sanguinary	involving or causing much bloodshed
 sweetmeat	an item of confectionery or sweet food
 divers	of varying types; several
-soft tack	"bread, especially as rations for sailors or soldiers"
+soft tack	bread, especially as rations for sailors or soldiers
 venery	hunting
 flux	diarrhoea or dysentery
 bumper	a generous glass of an alcoholic drink
@@ -147,11 +147,11 @@ blackguard	a scoundrel
 horseless carriage	a car
 orts	scraps; remains
 delate	report (an offence)
-tenter	"a person in charge of something, especially factory machinery"
+tenter	a person in charge of something, especially factory machinery
 watch	remain awake as religious observance
-sap	"make (a building, etc.) insecure by removing its foundations"
+sap	make (a building, etc.) insecure by removing its foundations
 rathe-ripe	(of fruit) ripening early in the year; (of a person) precocious
-thenceforth	"from that time, place, or point onward"
+thenceforth	from that time, place, or point onward
 blow	produce flowers or be in flower
 coxcomb	a vain and conceited man; a dandy
 gallant	a dashing gentleman
@@ -209,7 +209,7 @@ paynim	a pagan
 behoof	benefit or advantage
 accouchement	birthing
 overbrim	spill; overflow
-fainŽant	an idle or ineffective person
+fainï¿½ant	an idle or ineffective person
 grimalkin	a cat
 breech	a person's buttocks
 let	hinder
@@ -221,7 +221,7 @@ learn	teach
 indite	write; compose
 trigon	a triangle
 embarrass	hamper or impede
-scantling	"a specimen, sample, or small amount"
+scantling	a specimen, sample, or small amount
 espousal	a marriage or engagement
 man-at-arms	a soldier
 gadzooks	an expression of surprise or annoyance
@@ -233,8 +233,8 @@ freak	a whim
 host	an army
 dandiprat	a young or insignificant person
 forsooth	indeed
-wise	"manner, way, or extent"
-skirt	"an edge, border, or extreme part"
+wise	manner, way, or extent
+skirt	an edge, border, or extreme part
 turnkey	a jailer
 furbish	polish (a weapon)
 nithing	a contemptible or despicable person
@@ -244,7 +244,7 @@ immedicable	untreatable
 frore	frozen or frosty
 purblind	short-sighted
 lying-in	seclusion before and after childbirth
-quidnunc	"an inquisitive, gossipy person"
+quidnunc	an inquisitive, gossipy person
 gage	a valued object deposited as a guarantee
 usher	an assistant teacher
 doit	a very small amount of money
@@ -258,7 +258,7 @@ con	study attentively or learn by heart (a piece of writing)
 peeler	a police officer
 mayhap	perhaps; possibly
 'tween	between
-scruple	"a very small amount of something, especially a quality"
+scruple	a very small amount of something, especially a quality
 howbeit	nevertheless
 neat	a bovine animal or animals
 reduce	besiege and capture (a town or fortress)
@@ -268,10 +268,10 @@ husbandman	a farmer
 swash	flamboyantly swagger about or wield a sword
 whence	from what place or source
 degree	social or official rank
-estate	"a particular state, period, or condition in life"
+estate	a particular state, period, or condition in life
 piepowder	a traveller or an itinerant merchant or trader
 scullion	a menial servant
-stoup	"a container for drinking beer, etc.; a flagon"
+stoup	a container for drinking beer, etc.; a flagon
 asunder	apart
 gentle	noble or courteous
 fizgig	a silly or flirtatious young woman
@@ -305,7 +305,7 @@ contumely	insolent or insulting language or treatment
 fourscore	eighty
 latchet	a narrow thong or lace for fastening a shoe or sandal
 hoar	frost
-ruth	"a feeling of pity, distress, or grief"
+ruth	a feeling of pity, distress, or grief
 sanative	healing
 scold	a woman who nags or grumbles constantly
 baseborn	of low birth or social standing
@@ -365,7 +365,7 @@ success	a good or bad outcome
 dark	ignorant
 wench	a girl or young woman
 ween	think or suppose; be of the opinion
-degrade	"reduce to a lower rank, especially as a punishment"
+degrade	reduce to a lower rank, especially as a punishment
 taiga	a forest
 chapman	a peddler
 portage	the action of carrying or transporting
@@ -380,8 +380,8 @@ quality	high social standing
 expiry	death
 wight	a person of a specified kind
 soak	drink heavily
-wife	"a woman, especially an old or uneducated one"
-goodly	"attractive, excellent, or virtuous"
+wife	a woman, especially an old or uneducated one
+goodly	attractive, excellent, or virtuous
 fie	exclamation used to express disgust or outrage
 unhand	release from one's grasp
 advertisement	a notice to readers in a book
@@ -393,7 +393,7 @@ small beer	weak beer
 cadet	a younger son or daughter
 saturnism	lead poisoning
 tapster	a person who serves at a bar
-marry	"an expression of surprise, indignation, or emphatic assertion"
+marry	an expression of surprise, indignation, or emphatic assertion
 hence	from here
 corrupt	rotten or putrid
 wherefore	for what reason
