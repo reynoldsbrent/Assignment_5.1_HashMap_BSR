@@ -13,6 +13,7 @@ public class Application {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		
+		// make a new dictionary
 		WordDictionary dictionary = new WordDictionary();
 	
 		
@@ -20,15 +21,18 @@ public class Application {
 		
 		Scanner input = new Scanner(wordsAndDefs);
 		
+		// add words and definitions to the dictionary using the add() method
 		dictionary.add(input);
 		
 		System.out.println("Unsorted dictionary keys and definitions: ");
 		
 		System.out.println("---------------------------------------------");
+		//prints the HashMap
 		dictionary.print();
 		System.out.println("---------------------------------------------");
 		System.out.println("Five searched words: ");
 		
+		//printing out the definition of the words and their hashkey
 		System.out.println(dictionary.getWordDefinitionandHashKey("fain"));
 		System.out.println("---------------------------------------------");
 		System.out.println(dictionary.getWordDefinitionandHashKey("damsel"));

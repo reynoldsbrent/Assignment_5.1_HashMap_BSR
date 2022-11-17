@@ -6,11 +6,12 @@ import java.util.Scanner;
  * @version Fall 2022
  */
 public class WordDictionary {
+	
 	private HashMap<String, String> wordDefinitionPair;
 	
-	//private String archaicDef;
+	private String archaicDef;
 	
-	//private String archaicWord;
+	private String archaicWord;
 	
 	/**
 	 * No argument constructor
@@ -25,7 +26,9 @@ public class WordDictionary {
 	 * @param input the words and definition pairs
 	 */
 	public void add(Scanner input) {
+		
 		while(input.hasNext()) {
+			
 			String word = input.next();
 			String definition = input.nextLine();
 			word.hashCode();
@@ -36,6 +39,7 @@ public class WordDictionary {
 	}
 
 	/**
+	 * This method returns the word's definition and hashkey given the word as a parameter
 	 * @param word the word that the user wants to find the definition for
 	 * @return the definition of the word passed in by the calling method and its hashkey
 	 */
@@ -44,7 +48,8 @@ public class WordDictionary {
 	}
 	
 	/**
-	 * @return prints the HashMap out horizontally with word definition pairs
+	 * This method prints out the HashMap horizontally
+	 * @return the HashMap with word definition pairs
 	 */
 	public HashMap<String, String> printHashMap(){
 		return wordDefinitionPair;
