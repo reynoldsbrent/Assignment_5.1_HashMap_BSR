@@ -2,6 +2,13 @@ import java.io.BufferedReader;
 import java.io.*;
 import java.util.Scanner;
 
+/**
+ * 
+ *This class tests to see if the dictionary works properly. This class prints out the HashMap and Five Word-Definition-hashkey pairs.
+ * The archaic words were read in and added to the HashMap.
+ * @author brentreynolds
+ * @version Fall 2022
+ */
 public class Application {
 
 	public static void main(String[] args) throws FileNotFoundException {
@@ -15,9 +22,10 @@ public class Application {
 		
 		dictionary.add(input);
 		
-		System.out.println("Unsorted dictionary keys and definitions: " + dictionary.printHashMap());
+		System.out.println("Unsorted dictionary keys and definitions: ");
 		
-		dictionary.printHashMap();
+		System.out.println("---------------------------------------------");
+		dictionary.print();
 		System.out.println("---------------------------------------------");
 		System.out.println("Five searched words: ");
 		
